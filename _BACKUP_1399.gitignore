@@ -35,4 +35,7 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 <<<<<<< HEAD
+=======
 
+app-example
+>>>>>>> 792bde45ed856ec4d18f764435382bc080a1e9df
